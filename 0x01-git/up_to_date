@@ -5,7 +5,6 @@ My first readme
 git add .
 git commit -m 'My first commit'
 git push 
-
 mkdir 0x01-git
 cd 0x01-git
 cat > README2.md
@@ -13,7 +12,6 @@ another readme file
 git add 0x01-git
 git commit –m “this is another readme file”
 git push –u origin main.
-
 cd alx-pre_course
 mkdir bash
 cd bash
@@ -31,12 +29,10 @@ cd ..
 mkdir js
 touch main.js
 touch index.js
-
 cd ..
 git add .
 git commit –m “Starting to code today, so cool”.
 Type git push –u origin main.
-
 git checkout branch update_script.
 cd bash
 touch 98.
@@ -45,10 +41,8 @@ vi school
 git add .
 git commit –m “my personal work”.
 git push –u origin update_script.
-
 vi alx
 rmdir js
 git add .
 git commit –m “Hot fix”
 git push –u main origin
-
