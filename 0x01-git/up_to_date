@@ -1,5 +1,3 @@
-/////////////////Task 0//////////////
-
 git clone https://{my_token_witheld}@github.com/chrisjrocen/alx-pre_course.git
 cd alx-pre_course/
 cat > README.md
