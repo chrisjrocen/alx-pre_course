@@ -6,8 +6,6 @@ git add .
 git commit -m 'My first commit'
 git push 
 
-/////////////////Task 1//////////////
-
 mkdir 0x01-git
 cd 0x01-git
 cat > README2.md
@@ -16,7 +14,6 @@ git add 0x01-git
 git commit –m “this is another readme file”
 git push –u origin main.
 
-/////////////////Task 2//////////////
 cd alx-pre_course
 mkdir bash
 cd bash
@@ -40,7 +37,6 @@ git add .
 git commit –m “Starting to code today, so cool”.
 Type git push –u origin main.
 
-/////////////////Task 3//////////////
 git checkout branch update_script.
 cd bash
 touch 98.
@@ -50,8 +46,7 @@ git add .
 git commit –m “my personal work”.
 git push –u origin update_script.
 
-////////
-Vi alx
+vi alx
 rmdir js
 git add .
 git commit –m “Hot fix”
