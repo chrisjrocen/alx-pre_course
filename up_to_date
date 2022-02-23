@@ -1,0 +1,62 @@
+git code used 
+/////////////////Task 0//////////////
+
+git clone https://{my_token_witheld}@github.com/chrisjrocen/alx-pre_course.git
+cd alx-pre_course/
+cat > README.md
+My first readme
+git add .
+git commit -m 'My first commit'
+git push 
+
+/////////////////Task 1//////////////
+
+mkdir 0x01-git
+cd 0x01-git
+cat > README2.md
+another readme file
+git add 0x01-git
+git commit –m “this is another readme file”
+git push –u origin main.
+
+/////////////////Task 2//////////////
+cd alx-pre_course
+mkdir bash
+cd bash
+cat > alx
+#!/bin/bash  
+echo "ALX"
+cat > school 
+#!/bin/bash
+echo "School"
+cd ..
+mkdir c
+cd c
+touch c_is_fun.c 
+cd ..
+mkdir js
+touch main.js
+touch index.js
+
+cd ..
+git add .
+git commit –m “Starting to code today, so cool”.
+Type git push –u origin main.
+
+/////////////////Task 3//////////////
+git checkout branch update_script.
+cd bash
+touch 98.
+vi alx
+vi school
+git add .
+git commit –m “my personal work”.
+git push –u origin update_script.
+
+////////
+Vi alx
+rmdir js
+git add .
+git commit –m “Hot fix”
+git push –u main origin
+
